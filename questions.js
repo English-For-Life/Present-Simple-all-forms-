@@ -32,7 +32,7 @@ const quiz = [
     },
     {
         q:"I ___ reading.",
-        options:["don't like", "don't likes", "doesn't like", "am not"],
+        options:["don't like", "don't likes", "doesn't like", "doesn't likes"],
         answer: 0
     },
     {
