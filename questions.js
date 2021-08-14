@@ -36,7 +36,7 @@ const quiz = [
         answer: 0
     },
     {
-        q:"He ___ play guitar every day.",
+        q:"He ___ guitar every day.",
         options:["don't plays", "don't play", "doesn't plays", "doesn't play"],
         answer: 3
     },
